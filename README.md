@@ -3,3 +3,4 @@
 # see https://fantasy.premierleague.com/
 
 # git -a -m "message"
+# git push
